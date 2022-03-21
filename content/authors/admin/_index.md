@@ -32,7 +32,7 @@ title: Richard Johnson
 
 My name is Richard Johnson.
 
-I started my career at The French Fencing Factory in Highgate, concentrating on Epee. I learnt everything from his coach, Priscille Lepoutre, who also assisted me in Foil.  
+I started my career at The French Fencing Factory in Highgate, concentrating on Epee. I learnt everything from my coach, Priscille Lepoutre, who also assisted me in Foil.  
 
 I have been teaching fencing in many schools and clubs across London for over 10 years. My proudest moment was coaching and winning the London Youth Games in Foil with Team Ealing.
 
