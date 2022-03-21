@@ -1,14 +1,12 @@
 
-
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: accomplishments
 
 # This file represents a page section.
 headless: true
-
-
 
 # Order that this section appears on the page.
 weight: 50
