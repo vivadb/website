@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://websitenfencing.netlify.app/sitemap.xml
